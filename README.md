@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **AI Product Manager & Developer Advocate** at [APARAVI](https://aparavi.com), where I help organizations transform unstructured data into actionable intelligence. As **Co-Founder** of [n-aible](https://www.n-aible.com/), I'm on a mission to amplify human potential through community-driven AI education.
+I'm a passionate **AI Product Manager & Developer Advocate** at [CodeRabbit](https://coderabbit.ai), where I help organizations transform automated Code Review with AI. As **Co-Founder** of [n-aible](https://www.n-aible.com/), I'm on a mission to amplify human potential through community-driven AI education.
 
 ### 🎯 What I Do
 - **AI Product Management**: Building AI-powered enterprise solutions for data management and compliance
