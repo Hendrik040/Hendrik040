@@ -1,119 +1,81 @@
-# Hi there, I'm Hendrik Krack! 👋
+# hendrik krack
 
-<div align="center">
-  
-**🎯 Climate Advocate AI Enthusiast | 🚀 AI Product Manager & Developer Advocate**
+`[ developer advocacy ]` `[ san francisco ]`
 
-*Empowering business innovation through the symbiosis of humans and AI*
+**I help people adapt technology.**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-climateadvocateaienthusiast-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/climateadvocateaienthusiast/)
-[![GitHub](https://img.shields.io/badge/GitHub-HendrikKrack-black?style=flat-square&logo=github)](https://github.com/HendrikKrack)
+I talk to developers about AI code review at [CodeRabbit](https://coderabbit.ai), write about developer tools and climate-aware engineering at [krackedtools.dev](https://krackedtools.dev), and build demos that break in interesting ways.
 
-</div>
-
-## 🚀 About Me
-
-I'm a passionate **Developer Advocate** at [CodeRabbit](https://coderabbit.ai), where I help developers and organizations transform Code Review with AI. As **Co-Founder** of [n-aible](https://www.n-aible.com/), I'm on a mission to amplify human potential through community-driven AI education.
-
-### 🎯 What I Do
-- **AI Product Management**: Building AI-powered enterprise solutions for data management and compliance
-- **Developer Advocacy**: Bridging the gap between complex AI technologies and practical business applications  
-- **Community Building**: Organizing hackathons, workshops, and educational events across San Francisco
-- **Climate Technology**: Advocating for sustainable tech solutions and green innovation
-
-## 🏢 Professional Experience
-
-### 🐰 [CodeRabbit](https://coderabbit.ai) - Developer Advocate
-Helping developers ship better code faster with AI-powered code reviews:
-- **AI Code Review Advocacy**: Showing teams how to transform their PR workflows with context-aware, line-by-line AI reviews
-- **Developer Education**: Creating content, talks, and demos around AI-assisted code review across GitHub, GitLab, IDE, and CLI
-- **Community Engagement**: Connecting with developer communities at hackathons, meetups, and conferences
-- **Product Feedback Loop**: Bringing real-world developer insights back into the product
-
-### 📊 [APARAVI](https://aparavi.com) - AI Product Manager & Developer Advocate *(previous)*
-Transformed unstructured data into actionable intelligence through:
-- **Enterprise RAG Workflows**: Deployed high-quality, privacy-safe data pipelines
-- **AI Data Preparation**: Prebuilt classifications and automated data cleaning
-- **Compliance Solutions**: Powerful search and classification for legal and compliance teams
-- **Data Governance**: 360° view of unstructured data across on-prem and cloud environments
-
-### 🎓 [n-aible](https://www.n-aible.com/) - Co-Founder  
-*"Enabling AI for everyone"* - Community-driven AI education platform:
-- **Live Events & Hackathons**: "AI in Action" labs, co-pilot challenges, bootcamps
-- **AI Chapter Program**: Launching sustainable, student-led AI communities on university campuses
-- **University Partnerships**: Collaborating with EdTech platforms and forward-thinking schools
-- **Recent Achievement**: Organized major 4-day Low-Code/No-Code AI Hackathon in San Francisco with **Google**, **Neo4j**, and **Toolhouse**
-
-## 🛠️ Featured Projects
-
-### 🏆 [Enterprise AI Challenge](https://github.com/HendrikKrack/enterpriseAiChallenge)
-Building AI-powered enterprise chatbots for PixelProofy using Generative AI, Weaviate, and Hugging Face to enhance productivity, streamline onboarding, and support coding workflows.
-
-**Tech Stack:** `Python` `Generative AI` `Weaviate` `Hugging Face` `Enterprise Solutions`
-
-### 🤖 [Compound AI Agents Hackathon](https://github.com/HendrikKrack/CompoundAiAgentsHackathon)
-Hackathon repository showcasing compound AI agent architectures and innovative AI solutions.
-
-**Tech Stack:** `TypeScript` `AI Agents` `Compound AI Systems`
-
-### 🎯 [GitHub Hack Night](https://github.com/HendrikKrack/GithubHackNight)
-Comprehensive materials and challenges for GitHub Hack Night events - empowering developers to build, learn, and collaborate.
-
-**Tech Stack:** `Jupyter Notebook` `Python` `Educational Resources`
-
-### 🔍 [Weaviate Hack Night](https://github.com/HendrikKrack/WeviateHackNight)
-Vector database exploration and AI-powered search solutions using Weaviate's advanced capabilities.
-
-**Tech Stack:** `Python` `Vector Databases` `Semantic Search`
-
-## 🌱 Climate & Sustainability Focus
-
-As a **Climate Advocate AI Enthusiast**, I'm passionate about leveraging AI for environmental impact:
-- 🌍 Promoting sustainable technology solutions
-- 🔋 Supporting clean energy initiatives through AI
-- 📚 Climate education and awareness programs
-- 🤝 Building communities around climate action and technology
-
-## 🎖️ GitHub Achievements
-
-🏆 **Pair Extraordinaire** | 🦈 **Pull Shark** | ⚡ **Quickdraw**
-
-## 💻 Tech Stack & Expertise
-
-```
-🔹 Languages:     Python, TypeScript, JavaScript
-🔹 AI/ML:         Generative AI, LLMs, Vector Databases, Weaviate, Hugging Face
-🔹 Data:          Data Science, Unstructured Data Management, ETL Pipelines
-🔹 Cloud:         Enterprise Cloud Solutions, Hybrid Deployments
-🔹 Engineering:   Electrical Engineering, Software Engineering
-🔹 Domains:       EdTech, ClimaTech, Enterprise AI, Data Governance
-```
-
-## 🌟 Recent Highlights
-
-- 🐰 **Joined CodeRabbit** as Developer Advocate - championing AI-powered code reviews for developers worldwide
-- 🎉 **Successfully organized** a 4-day AI Hackathon in San Francisco with **1000+ check-ins** and **20 teams**
-- 🚀 **Co-founded n-aible** - evolved from Hult AI Society into a nonprofit focused on AI accessibility
-- 📈 **Grew APARAVI's** Enterprise RAG workflow adoption across multiple industries
-- 🎯 **Launched** multiple educational AI initiatives connecting academia with industry
-
-## 🤝 Let's Connect!
-
-I'm always excited to collaborate on:
-- 🔬 **AI Research & Development**
-- 🌱 **Climate Technology Projects** 
-- 🎓 **Educational AI Initiatives**
-- 🏢 **Enterprise AI Solutions**
-- 🚀 **Hackathons & Community Events**
-
-📧 **Get in touch**: [LinkedIn](https://www.linkedin.com/in/climateadvocateaienthusiast/) | [CodeRabbit](https://www.linkedin.com/company/coderabbitai/) | [n-aible](https://www.linkedin.com/company/n-aaible/)
+[\[ blog \]](https://krackedtools.dev) [\[ linkedin \]](https://www.linkedin.com/in/climateadvocateaienthusiast/) [\[ x \]](https://x.com/HKrackDev) [\[ github: HendrikKrack \]](https://github.com/HendrikKrack)
 
 ---
 
-<div align="center">
-  
-*"The future belongs to those who understand how to harness AI for human empowerment and environmental sustainability."*
+## about
 
-⭐ **Star my repositories if you find them helpful!** ⭐
+```text
+now       developer advocate @ CodeRabbit — AI code review on every PR
+side      co-founder @ n-aible — "enabling AI for everyone"
+writes    krackedtools.dev
+focus     ai code review · devtools · climate-aware engineering
+badges    pull shark ×3 · pair extraordinaire ×3 · quickdraw · yolo
+inputs    an unreasonable number of RSS feeds
+```
 
-</div> 
+The throughline: semiconductors → AI products → developer advocacy. I still write code most weeks — mostly so my demos break honestly.
+
+## work
+
+```console
+$ git log --oneline career
+c0d3r4b (HEAD -> main) feat: join CodeRabbit as developer advocate
+4p4r4v1 feat: ship enterprise RAG for unstructured data @ APARAVI
+n41bl3d init: co-found n-aible — community-driven AI education
+5em1c0n chore: electrical engineering, semiconductors
+```
+
+**[CodeRabbit](https://coderabbit.ai)** — showing teams how to put AI code review into their PR workflow: talks, demos, docs, and whatever the community actually needs. Real-world developer feedback goes back into the product.
+
+**[APARAVI](https://aparavi.com)** `[ previous ]` — AI product management for unstructured data: privacy-safe enterprise RAG pipelines, automated classification, compliance search, and data governance across on-prem and cloud.
+
+**[n-aible](https://www.n-aible.com/)** — nonprofit, community-driven AI education. Hackathons, student-led campus AI chapters, university partnerships. Once ran a 4-day low-code AI hackathon in San Francisco with Google, Neo4j, and Toolhouse — 1000+ check-ins, 20 teams.
+
+## writing
+
+[\[ krackedtools.dev \]](https://krackedtools.dev) `[ 3 posts · rss respected ]`
+
+[Building an effective code-review harness](https://krackedtools.dev/posts/building-an-effective-code-review-harness.html) `[ jul 2026 · 11 min ]`
+
+[Loop engineering: when is it worth the hassle?](https://krackedtools.dev/posts/loop-engineering-when-is-it-worth-the-hassle.html) `[ jun 2026 · 7 min ]`
+
+[Why building your own benchmark will get you ahead](https://krackedtools.dev/posts/why-building-your-own-benchmark-will-get-you-ahead.html) `[ apr 2026 · 18 min ]`
+
+## projects
+
+[enterpriseAiChallenge](https://github.com/HendrikKrack/enterpriseAiChallenge) — enterprise chatbots with generative AI, Weaviate, and Hugging Face `[ python ]`
+
+[CompoundAiAgentsHackathon](https://github.com/HendrikKrack/CompoundAiAgentsHackathon) — compound AI agent architectures, hackathon edition `[ typescript ]`
+
+[GithubHackNight](https://github.com/HendrikKrack/GithubHackNight) — materials and challenges for GitHub Hack Night events `[ jupyter ]`
+
+[WeviateHackNight](https://github.com/HendrikKrack/WeviateHackNight) — vector search experiments with Weaviate `[ python ]`
+
+## stack
+
+```text
+languages    python · typescript · javascript
+ai/ml        llms · rag · vector databases · weaviate · hugging face
+data         unstructured data · etl pipelines · governance
+cloud        enterprise + hybrid deployments
+roots        electrical engineering
+domains      devtools · enterprise ai · edtech · climatech
+```
+
+## contact
+
+Collaborations, talks, hackathons, climate-tech schemes, or a friendly argument about code review — inbox is open.
+
+[\[ linkedin \]](https://www.linkedin.com/in/climateadvocateaienthusiast/) [\[ x \]](https://x.com/HKrackDev) [\[ blog \]](https://krackedtools.dev)
+
+---
+
+`⣾ rendered locally`
