@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **AI Product Manager & Developer Advocate** at [CodeRabbit](https://coderabbit.ai), where I help organizations transform automated Code Review with AI. As **Co-Founder** of [n-aible](https://www.n-aible.com/), I'm on a mission to amplify human potential through community-driven AI education.
+I'm a passionate **Developer Advocate** at [CodeRabbit](https://coderabbit.ai), where I help developers and organizations transform Code Review with AI. As **Co-Founder** of [n-aible](https://www.n-aible.com/), I'm on a mission to amplify human potential through community-driven AI education.
 
 ### 🎯 What I Do
 - **AI Product Management**: Building AI-powered enterprise solutions for data management and compliance
@@ -23,9 +23,16 @@ I'm a passionate **AI Product Manager & Developer Advocate** at [CodeRabbit](htt
 
 ## 🏢 Professional Experience
 
-### 🔥 [APARAVI](https://aparavi.com) - AI Product Manager & Developer Advocate
-Transforming unstructured data into actionable intelligence through:
-- **Enterprise RAG Workflows**: Deploying high-quality, privacy-safe data pipelines
+### 🐰 [CodeRabbit](https://coderabbit.ai) - Developer Advocate
+Helping developers ship better code faster with AI-powered code reviews:
+- **AI Code Review Advocacy**: Showing teams how to transform their PR workflows with context-aware, line-by-line AI reviews
+- **Developer Education**: Creating content, talks, and demos around AI-assisted code review across GitHub, GitLab, IDE, and CLI
+- **Community Engagement**: Connecting with developer communities at hackathons, meetups, and conferences
+- **Product Feedback Loop**: Bringing real-world developer insights back into the product
+
+### 📊 [APARAVI](https://aparavi.com) - AI Product Manager & Developer Advocate *(previous)*
+Transformed unstructured data into actionable intelligence through:
+- **Enterprise RAG Workflows**: Deployed high-quality, privacy-safe data pipelines
 - **AI Data Preparation**: Prebuilt classifications and automated data cleaning
 - **Compliance Solutions**: Powerful search and classification for legal and compliance teams
 - **Data Governance**: 360° view of unstructured data across on-prem and cloud environments
@@ -84,6 +91,7 @@ As a **Climate Advocate AI Enthusiast**, I'm passionate about leveraging AI for 
 
 ## 🌟 Recent Highlights
 
+- 🐰 **Joined CodeRabbit** as Developer Advocate - championing AI-powered code reviews for developers worldwide
 - 🎉 **Successfully organized** a 4-day AI Hackathon in San Francisco with **1000+ check-ins** and **20 teams**
 - 🚀 **Co-founded n-aible** - evolved from Hult AI Society into a nonprofit focused on AI accessibility
 - 📈 **Grew APARAVI's** Enterprise RAG workflow adoption across multiple industries
@@ -98,7 +106,7 @@ I'm always excited to collaborate on:
 - 🏢 **Enterprise AI Solutions**
 - 🚀 **Hackathons & Community Events**
 
-📧 **Get in touch**: [LinkedIn](https://www.linkedin.com/in/climateadvocateaienthusiast/) | [APARAVI](https://www.linkedin.com/company/aparavi-software-corp/) | [n-aible](https://www.linkedin.com/company/n-aaible/)
+📧 **Get in touch**: [LinkedIn](https://www.linkedin.com/in/climateadvocateaienthusiast/) | [CodeRabbit](https://www.linkedin.com/company/coderabbitai/) | [n-aible](https://www.linkedin.com/company/n-aaible/)
 
 ---
 
