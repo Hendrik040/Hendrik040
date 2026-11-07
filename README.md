@@ -12,14 +12,12 @@ I talk to developers about AI code review at [CodeRabbit](https://coderabbit.ai)
 
 ## about
 
-```text
-now       developer advocate @ CodeRabbit — AI code review on every PR
-side      co-founder @ n-aible — "enabling AI for everyone"
-writes    krackedtools.dev
-focus     ai code review · devtools · climate-aware engineering
-badges    pull shark ×3 · pair extraordinaire ×3 · quickdraw · yolo
-inputs    an unreasonable number of RSS feeds
-```
+**now** · developer advocate @ CodeRabbit, AI code review on every PR<br>
+**side** · co-founder @ n-aible, "enabling AI for everyone"<br>
+**writes** · krackedtools.dev<br>
+**focus** · ai code review · devtools · climate-aware engineering<br>
+**badges** · pull shark ×3 · pair extraordinaire ×3 · quickdraw · yolo<br>
+**inputs** · an unreasonable number of RSS feeds
 
 The throughline: semiconductors → AI products → developer advocacy. I still write code most weeks — mostly so my demos break honestly.
 
@@ -27,10 +25,10 @@ The throughline: semiconductors → AI products → developer advocacy. I still 
 
 ```console
 $ git log --oneline career
-c0d3r4b (HEAD -> main) feat: join CodeRabbit as developer advocate
-4p4r4v1 feat: ship enterprise RAG for unstructured data @ APARAVI
-n41bl3d init: co-found n-aible — community-driven AI education
-5em1c0n chore: electrical engineering, semiconductors
+c0d3r4b (HEAD) feat: join CodeRabbit
+4p4r4v1 feat: enterprise RAG @ APARAVI
+n41bl3d init: co-found n-aible
+5em1c0n chore: EE + semiconductors
 ```
 
 **[CodeRabbit](https://coderabbit.ai)** — showing teams how to put AI code review into their PR workflow: talks, demos, docs, and whatever the community actually needs. Real-world developer feedback goes back into the product.
@@ -41,15 +39,27 @@ n41bl3d init: co-found n-aible — community-driven AI education
 
 ## writing
 
-[\[ krackedtools.dev \]](https://krackedtools.dev) `[ 3 posts · rss respected ]`
+[\[ krackedtools.dev \]](https://krackedtools.dev) `[ 13 posts · rss respected ]`
 
-[Building an effective code-review harness](https://krackedtools.dev/posts/building-an-effective-code-review-harness.html) `[ jul 2026 · 11 min ]`
+[The Merge: What if your 'if-statements' could think?](https://krackedtools.dev/posts/the-merge-typesafe-jev-smart-if-statements.html) `[ oct 2026 · 7 min ]`
 
-[Loop engineering: when is it worth the hassle?](https://krackedtools.dev/posts/loop-engineering-when-is-it-worth-the-hassle.html) `[ jun 2026 · 7 min ]`
+[Claude Sonnet 5.5 for code review: More catches than Sonnet 5, in half the time](https://krackedtools.dev/posts/claude-sonnet-5-5-for-code-review.html) `[ sep 2026 · 12 min ]`
 
-[Why building your own benchmark will get you ahead](https://krackedtools.dev/posts/why-building-your-own-benchmark-will-get-you-ahead.html) `[ apr 2026 · 18 min ]`
+[The Merge: Your tests pass. Can your agent finish the job?](https://krackedtools.dev/posts/the-merge-cua-can-your-agent-finish-the-job.html) `[ sep 2026 · 4 min ]`
+
+[\[ all posts \]](https://krackedtools.dev/writing.html)
 
 ## projects
+
+**[n-aible](https://www.n-aible.com/)** `[ live · real users ]` — turns static teaching cases into interactive AI simulations. Professors build a simulation from their own case, students play it and get graded, and everyone learns by doing. In use in real university courses.
+
+[ai-code-reviewer](https://github.com/Hendrik040/ai-code-reviewer) — an open-source AI code reviewer that walks through the core ideas of context engineering. Fork it and point it at your own PRs `[ python ]`
+
+[code-review-agent](https://github.com/Hendrik040/code-review-agent) — an agentic code-review harness built twice, on the Anthropic Client SDK and the Claude Agent SDK, with a memory that learns from PR feedback. Companion repo to my ThunderPlains talk `[ python ]`
+
+<details>
+<summary>earlier hackathon projects</summary>
+<br>
 
 [enterpriseAiChallenge](https://github.com/HendrikKrack/enterpriseAiChallenge) — enterprise chatbots with generative AI, Weaviate, and Hugging Face `[ python ]`
 
@@ -59,16 +69,16 @@ n41bl3d init: co-found n-aible — community-driven AI education
 
 [WeviateHackNight](https://github.com/HendrikKrack/WeviateHackNight) — vector search experiments with Weaviate `[ python ]`
 
+</details>
+
 ## stack
 
-```text
-languages    python · typescript · javascript
-ai/ml        llms · rag · vector databases · weaviate · hugging face
-data         unstructured data · etl pipelines · governance
-cloud        enterprise + hybrid deployments
-roots        electrical engineering
-domains      devtools · enterprise ai · edtech · climatech
-```
+**languages** · python · c · typescript · matlab<br>
+**ai/ml** · llms · rag · vector databases · weaviate · hugging face<br>
+**data** · unstructured data · etl pipelines · governance<br>
+**cloud** · enterprise + hybrid deployments<br>
+**roots** · electrical engineering<br>
+**domains** · devtools · enterprise ai · edtech · climatech
 
 ## contact
 
