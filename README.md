@@ -61,7 +61,7 @@ n41bl3d init: co-found n-aible
 
 ## stack
 
-**languages** · python · typescript · javascript<br>
+**languages** · python · c · typescript · matlab<br>
 **ai/ml** · llms · rag · vector databases · weaviate · hugging face<br>
 **data** · unstructured data · etl pipelines · governance<br>
 **cloud** · enterprise + hybrid deployments<br>
