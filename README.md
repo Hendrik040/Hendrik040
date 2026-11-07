@@ -51,6 +51,16 @@ n41bl3d init: co-found n-aible
 
 ## projects
 
+**[n-aible](https://www.n-aible.com/)** `[ live · real users ]` — turns static teaching cases into interactive AI simulations. Professors build a simulation from their own case, students play it and get graded, and everyone learns by doing. In use in real university courses.
+
+[ai-code-reviewer](https://github.com/Hendrik040/ai-code-reviewer) — an open-source AI code reviewer that walks through the core ideas of context engineering. Fork it and point it at your own PRs `[ python ]`
+
+[code-review-agent](https://github.com/Hendrik040/code-review-agent) — an agentic code-review harness built twice, on the Anthropic Client SDK and the Claude Agent SDK, with a memory that learns from PR feedback. Companion repo to my ThunderPlains talk `[ python ]`
+
+<details>
+<summary>earlier hackathon projects</summary>
+<br>
+
 [enterpriseAiChallenge](https://github.com/HendrikKrack/enterpriseAiChallenge) — enterprise chatbots with generative AI, Weaviate, and Hugging Face `[ python ]`
 
 [CompoundAiAgentsHackathon](https://github.com/HendrikKrack/CompoundAiAgentsHackathon) — compound AI agent architectures, hackathon edition `[ typescript ]`
@@ -58,6 +68,8 @@ n41bl3d init: co-found n-aible
 [GithubHackNight](https://github.com/HendrikKrack/GithubHackNight) — materials and challenges for GitHub Hack Night events `[ jupyter ]`
 
 [WeviateHackNight](https://github.com/HendrikKrack/WeviateHackNight) — vector search experiments with Weaviate `[ python ]`
+
+</details>
 
 ## stack
 
