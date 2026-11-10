@@ -51,13 +51,25 @@ n41bl3d init: co-found n-aible — community-driven AI education
 
 ## projects
 
-[enterpriseAiChallenge](https://github.com/HendrikKrack/enterpriseAiChallenge) — enterprise chatbots with generative AI, Weaviate, and Hugging Face `[ python ]`
+### building
 
-[CompoundAiAgentsHackathon](https://github.com/HendrikKrack/CompoundAiAgentsHackathon) — compound AI agent architectures, hackathon edition `[ typescript ]`
+[n-aible](https://n-aible.com) — business case studies turned into AI simulations for students and educators: strategy, operations, supply chains, and negotiation `[ edtech · n-gage alpha v1.0 ]`
 
-[GithubHackNight](https://github.com/HendrikKrack/GithubHackNight) — materials and challenges for GitHub Hack Night events `[ jupyter ]`
+### open source
 
-[WeviateHackNight](https://github.com/HendrikKrack/WeviateHackNight) — vector search experiments with Weaviate `[ python ]`
+[AI Code Reviewer](https://github.com/Hendrik040/ai-code-reviewer) — follows changed code into its callers and callees to catch bugs outside the diff; three modes compare context and token use `[ python ]`
+
+[code-review-agent](https://github.com/Hendrik040/code-review-agent) — a code-review harness built with both the Anthropic Client SDK and Claude Agent SDK, with memory for corrections from earlier reviews `[ python · claude agent sdk ]`
+
+### experiments
+
+[Creature Factory](https://github.com/Hendrik040/creature-factory) — a live talk demo comparing direct publishing with Jev checking whether each change fits the product `[ javascript · sf tech week 2026 ]`
+
+**Le Blab** — a native macOS dictation app powered by Mistral’s Voxtral, with a pixel duck for company `[ swift · macos · private ]`
+
+[CodeRabbit Video Studio](https://github.com/Hendrik040/coderabbit-video-remotion) — marketing videos made as React components, with reusable scenes and a local editor for MP4 and transparent-overlay exports `[ typescript · remotion ]`
+
+[Henni & krackedtools.dev](https://krackedtools.dev) — a hand-written voxel renderer for the pixel me who codes, podcasts, mixes drinks, and skis around the site, alongside its tile-wave background `[ vanilla js · canvas ]`
 
 ## stack
 
